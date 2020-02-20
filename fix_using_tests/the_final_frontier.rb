@@ -20,5 +20,3 @@ def engage
   state_log(date)
   greet_crew(crew)
 end
-
-engage
